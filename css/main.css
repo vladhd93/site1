@@ -59,5 +59,10 @@ aside{
     height: 0;
     visibility: hidden;
     content: "";
-    
+
+}
+
+h2{
+    color: #EB7B21;
+    font-size: 30px;
 }
